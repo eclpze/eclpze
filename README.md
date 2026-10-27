@@ -1,4 +1,14 @@
-## Hi there 👋
+```dart
+final eclpze = Developer(
+  about: AboutMe(
+    name: 'Kamilla',
+    student: 'Surgut Polytechnic College',
+  ),
+  links: Links(
+    email: 'gubai.k60@gmail.com',
+  ),
+);
+```
 
 <!--
 **eclpze/eclpze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
